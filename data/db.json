@@ -1,0 +1,35 @@
+{
+  "Users": [],
+  "posts": [
+    {
+      "title": "edfced",
+      "Price": "455",
+      "Image": "",
+      "Discription": "sacsdvb",
+      "id": "dsP-8U9KGek"
+    },
+    {
+      "title": "1ws2qd",
+      "Price": "2456",
+      "Image": "",
+      "Discription": "sadfesbrd",
+      "id": "yAUQAElTBB0"
+    },
+    {
+      "title": "",
+      "Price": "",
+      "Image": "",
+      "Discription": "",
+      "id": "qbwf6oKax38"
+    },
+    {
+      "title": "dmfkrfc",
+      "Price": "23455",
+      "Image": "https://www.istockphoto.com/photos/beautiful-scenery",
+      "Discription": "dekjfefnelkglerjg",
+      "id": "0aRylkqVMvU"
+    }
+  ],
+  "Comments": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}
